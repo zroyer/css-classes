@@ -1,0 +1,34 @@
+div {
+  color: white;
+  font-family: Arial;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.header {
+  padding: 20px;
+  background-color: #ef8f4d;
+}
+
+.sidebar {
+  background-color: #f5b14b;
+  padding: 20px;
+  display:inline-block;
+  float: left;
+  width: 20%;
+  height: 300px;
+}
+
+.content {
+  float:left;
+  width: 80%;
+  background-color: #3e5c76;
+  height: 300px;
+
+  }
+
+.footer {
+  background-color: #acc624;
+  clear: both;
+}
+
