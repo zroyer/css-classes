@@ -1,0 +1,45 @@
+div {
+  color: white;
+  font-family: Arial;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #ef8f4d;
+}
+
+.logo {
+  background-color: #e54e6f;
+  width: 20%;
+  display: inline-block;
+  float: left;
+}
+
+.nav {
+  background-color: #cd563e;
+  width: 80%;
+  display:inline-block;
+
+}
+
+.sidebar {
+  background-color: #f5b14b;
+  display:inline-block;
+  float: left;
+  width: 20%;
+  height: 300px;
+}
+
+.main {
+  float:left;
+  width: 80%;
+  background-color: #3e5c76;
+  height: 300px;
+}
+
+.footer {
+  background-color: #acc624;
+  clear: both;
+}
+
